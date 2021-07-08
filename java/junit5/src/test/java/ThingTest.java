@@ -15,4 +15,5 @@ public class ThingTest {
     void it_should_not_fail() {
         assertTrue(true);
     }
+
 }
